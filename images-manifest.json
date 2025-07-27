@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-27T07:59:56.343Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-house-outline.png",
+      "file_name": "logo-house-outline.png",
+      "description": "White background with a green outline of a house, featuring a roof, chimney, two windows, and a partially open door.",
+      "suggested_usage": "Use as the primary company logo in the header and footer.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-house.jpg",
+      "file_name": "project-tanvald-house.jpg",
+      "description": "A renovated two-story house with a white lower facade and a dark brown upper facade and roof, nestled in a forested, mountainous area. A person is visible near the side of the house.",
+      "suggested_usage": "Use in the gallery or services section to showcase completed projects, specifically residential renovations.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-pitched-roof-house.jpg",
+      "file_name": "project-pitched-roof-house.jpg",
+      "description": "A modern, newly renovated house with a cream-colored facade and a dark grey pitched tile roof, situated on a street with parked cars. A small gated fence is visible in front.",
+      "suggested_usage": "Use in the gallery or services section to display examples of residential new builds or major roof/facade renovations.",
+      "size_bytes": 558411
+    }
+  ]
+}
